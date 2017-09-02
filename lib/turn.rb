@@ -27,3 +27,7 @@ end
 def move(board, index, player_token = "X")
   board[index] = player_token
 end
+
+def turn
+  
+end
